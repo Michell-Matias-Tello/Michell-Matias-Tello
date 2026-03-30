@@ -10,7 +10,7 @@
 - :school: I'm currently an tenth year student at the **National University of Engineering**
 - :books: My specialty is **Statistical Engineering**
 - ⚡ Fun fact: I love cats!
-- 📫 How to reach me: 
+- 📫 How to reach me: ![Notion]([https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361?source=copy_link))
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
