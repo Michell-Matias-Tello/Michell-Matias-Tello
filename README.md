@@ -10,11 +10,12 @@
 - :school: I'm currently an tenth year student at the **National University of Engineering**
 - :books: My specialty is **Statistical Engineering**
 - ⚡ Fun fact: I love cats!
-- 📫 How to reach me: ![Notion]([https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361?source=copy_link))
+- 📫 How to reach me: [Notion](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361?source=copy_link)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0078D4?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white)
