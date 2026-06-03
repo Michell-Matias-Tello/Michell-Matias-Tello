@@ -7,7 +7,7 @@
 ## 🌱  **About me**
 
 - :credit_card: My full name is **Michell Matias Tello** 
-- :school: I'm currently an tenth year student at the **National University of Engineering**
+- :school: I am currently a tenth-cycle student at the **National University of Engineering**
 - :books: My specialty is **Statistical Engineering**
 - ⚡ Fun fact: I love cats!
 - 📫 How to reach me: [Notion](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361?source=copy_link)
