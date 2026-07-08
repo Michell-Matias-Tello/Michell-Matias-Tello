@@ -56,7 +56,7 @@
   src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.matias.tello@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/hotmail-michell?style=for-the-badge&logo=mail&logoColor=white&color=blue)](mailto:m.matias.tello@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michell-matias/)
 
 <!--Footer--> 
