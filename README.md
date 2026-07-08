@@ -57,6 +57,7 @@
 <div align="center">
 
 [![Hotmail](https://img.shields.io/badge/hotmail-michell?style=for-the-badge&logo=mail&logoColor=white&color=blue)](mailto:m.matias.tello@hotmail.com)
+[![whatsapp](https://img.shields.io/badge/whatsapp-michell?style=for-the-badge&logo=whatsapp&logoColor=000000)](https://wa.me/949789707?text=Hi%2C%20I%20reviewed%20your%20portfolio%20and%20would%20like%20to%20contact%20you%20about%20a%20professional%20opportunity.)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michell-matias/)
 
 <!--Footer--> 
