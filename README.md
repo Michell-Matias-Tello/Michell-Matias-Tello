@@ -61,8 +61,10 @@
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/Scrum-%23FF3E00.svg?style=for-the-badge&logo=Scrum&logoColor=white) 
 ![Project Management](https://img.shields.io/badge/Project%20Management-8ED5FA?style=for-the-badge&logo=project-management&logoColor=white)
+
 ---
-##   **About Some Stats**
+##  📊  **About Some Stats**
+
 <div align="center">
 </div>
 <div align="center">
@@ -70,11 +72,12 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Michell Matias Tello&theme=react-dark"/>
 </div>
 
-##  📫 **Contact Section**
+##  📫  **Contact Section**
 
-<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let’s Work Together! <img
-  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
-<div align="center">
+<div align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+Let’s Work Together!<img
+  src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> <br /> <br />
+<div align="center"> 
 
 [![Hotmail](https://img.shields.io/badge/hotmail-michell?style=for-the-badge&logo=mail&logoColor=white&color=blue)](mailto:m.matias.tello@hotmail.com)
 [![whatsapp](https://img.shields.io/badge/whatsapp-michell?style=for-the-badge&logo=whatsapp&logoColor=000000)](https://wa.me/949789707?text=Hi%2C%20I%20reviewed%20your%20portfolio%20and%20would%20like%20to%20contact%20you%20about%20a%20professional%20opportunity.)
@@ -90,7 +93,7 @@
 ------
 
 <div align="center">
-  Thanks for watching my profile! Have a nice day!</h2>
+  Thanks for watching my profile! Have a nice day! </h2>
   <div align="center">
   <div align="center">
   <div align="center">
