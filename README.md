@@ -63,6 +63,8 @@
 ![Project Management](https://img.shields.io/badge/Project%20Management-8ED5FA?style=for-the-badge&logo=project-management&logoColor=white)
 
 ---
+<br> 
+
 ##  📊  **About Some Stats**
 
 <div align="center">
@@ -74,10 +76,12 @@
 
 ##  📫  **Contact Section**
 
-<div align="center">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="79px">
-  <strong style="font-size: 0.1em;">Let’s Work Together!</strong>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="79px">
-    <br /><br />
+<div align="center"> <h3 style="display: inline;">
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+  Let’s Work Together!
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h3>
+
+
 
 [![Hotmail](https://img.shields.io/badge/hotmail-michell?style=for-the-badge&logo=mail&logoColor=white&color=blue)](mailto:m.matias.tello@hotmail.com)
 [![whatsapp](https://img.shields.io/badge/whatsapp-michell?style=for-the-badge&logo=whatsapp&logoColor=000000)](https://wa.me/949789707?text=Hi%2C%20I%20reviewed%20your%20portfolio%20and%20would%20like%20to%20contact%20you%20about%20a%20professional%20opportunity.)
