@@ -9,7 +9,7 @@
 - :credit_card: My full name is **Michell Matias Tello** 
 - :school: I am currently a tenth-cycle student at the **National University of Engineering**
 - :books: My specialty is **Statistical Engineering**
-- ⚡ Key Technical Coursework: Statistical Inference, Data Science, Econometric Methods
+- ⚡ Technical Coursework: Statistical Inference, Data Science, Econometric Methods
 - 📫 How to reach me: [Notion](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361?source=copy_link)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
