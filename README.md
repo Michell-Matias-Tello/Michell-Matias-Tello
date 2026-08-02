@@ -1,8 +1,6 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+👋,+I'm+Michell;Nice+to+meet+you!!!;Welcome+to+my+profile!" alt="Title"></img>
-  </h2>
-</h2>
-</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+👋,+I'm+Michell;Nice+to+meet+you!!!;Welcome+to+my+profile!" alt="Title"></img>  
+<br> 
 
 ## 🌱  **About me**
 
@@ -65,7 +63,7 @@
 ![Scrum](https://img.shields.io/badge/Scrum-%23FF3E00.svg?style=for-the-badge&logo=Scrum&logoColor=white) 
 ![Project Management](https://img.shields.io/badge/Project%20Management-8ED5FA?style=for-the-badge&logo=project-management&logoColor=white)
 
----
+
 <br> 
 
 ##  📊  **About Some Stats**
@@ -86,7 +84,7 @@
 
 
 
-[![Hotmail](https://img.shields.io/badge/hotmail-michell?style=for-the-badge&logo=mail&logoColor=white&color=blue)](mailto:m.matias.tello@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-007EC6?style=for-the-badge&logoColor=white)](mailto:m.matias.tello@hotmail.com)
 [![whatsapp](https://img.shields.io/badge/whatsapp-michell?style=for-the-badge&logo=whatsapp&logoColor=000000)](https://wa.me/949789707?text=Hi%2C%20I%20reviewed%20your%20portfolio%20and%20would%20like%20to%20contact%20you%20about%20a%20professional%20opportunity.)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michell-matias/)
 [![whatsapp](https://img.shields.io/badge/Website-michell?style=for-the-badge&logo=Website&color=orange
