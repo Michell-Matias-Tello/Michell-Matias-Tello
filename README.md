@@ -38,7 +38,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 
-<h2> </h2>
+<br />
 
 ### **💻 Development Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -54,7 +54,7 @@
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) 
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<h2> </h2>
+<br />
 
 ### 🚀 Project Management & Agile
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white) 
