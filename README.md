@@ -51,8 +51,10 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
-![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) 
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![microsoft](https://img.shields.io/badge/microsoft-ms?style=for-the-badge&logo=microsoft&logoColor=white
+)
+![programa](https://img.shields.io/badge/Google%20Workspace-1?style=for-the-badge&logo=google&logoColor=white&color=4285F4
+)
 
 
 
@@ -62,6 +64,7 @@
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/Scrum-%23FF3E00.svg?style=for-the-badge&logo=Scrum&logoColor=white) 
 ![Project Management](https://img.shields.io/badge/Project%20Management-8ED5FA?style=for-the-badge&logo=project-management&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <br> 
 
