@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<h2> </h2>
+<br />
 
 ### **🗃️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +27,7 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-<h2> </h2>
+<br />
 
 ### **📊 Data Science & Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h2> </h2>
+<br />
 
 ### 📝 Productivity & Collaboration
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
@@ -69,10 +69,10 @@
 ##  📊  **About Some Stats**
 
 <div align="center">
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Michell Matias Tello&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Michell Matias Tello&theme=react-dark"/>
+  <img
+    src="http://github-readme-streak-stats.herokuapp.com?user=Michell%20Matias%20Tello&theme=algolia&background=0d1117&hide_border=true&dates=MMM%20D%2C%20YYYY"
+    alt="GitHub Streak"
+  />
 </div>
 
 ##  📫  **Contact Section**
