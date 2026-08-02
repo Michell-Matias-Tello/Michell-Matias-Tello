@@ -40,23 +40,23 @@
 
 <br />
 
-### **💻 Development Tools**
+#### **💻 Development Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br />
 
-### 📝 Productivity & Collaboration
+
+#### 📝 Productivity & Collaboration
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) 
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br />
 
-### 🚀 Project Management & Agile
+
+#### 🚀 Project Management & Agile
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white) 
@@ -68,9 +68,9 @@
 
 ##  📊  **About Some Stats**
 
-<div align="center">
+<div align="center" style="filter: hue-rotate(30deg) saturate(2);">
   <img
-    src="http://github-readme-streak-stats.herokuapp.com?user=Michell%20Matias%20Tello&theme=algolia&background=0d1117&hide_border=true&dates=MMM%20D%2C%20YYYY"
+    src="http://github-readme-streak-stats.herokuapp.com?user=Michell-Matias-Tello&theme=algolia&background=0d1117&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
@@ -78,8 +78,8 @@
 ##  📫  **Contact Section**
 
 <div align="center"> <h3 style="display: inline;">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
-  Let’s Work Together!
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+  Let’s Work Together! 
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h3>
 
 
