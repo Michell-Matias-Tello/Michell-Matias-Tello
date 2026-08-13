@@ -43,7 +43,6 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <sub>Issued: March 2024 · 45 Hours · Business Intelligence Institute</sub>
 
 
-
 </div>
 
 ---
