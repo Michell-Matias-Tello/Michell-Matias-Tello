@@ -134,15 +134,6 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 
 ---
 
-## 🚀 **Services Offered**
-
-| Service | Description |
-|---------|-------------|
-| **📈 Data Analytics** | Descriptive & diagnostic analytics, KPI dashboards, business reporting |
-| **🤖 Data Science** | Predictive modeling, statistical inference, machine learning solutions |
-| **⚙️ Data Engineering** | ETL pipelines, database design, data integration & warehousing |
-| **🧠 Artificial Intelligence** | Generative AI, LLM fine-tuning, NLP, computer vision |
----
 
 ## 📫 **Let's Connect**
 
