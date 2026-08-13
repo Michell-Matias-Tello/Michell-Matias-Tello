@@ -14,6 +14,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 - 🌐 **Portfolio**: [Notion Portfolio](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
 
 ---
+
 ## 🎓 **Executive Certifications**
 
 <div align="center">
@@ -89,8 +90,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 ### **Productivity Suite**
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![microsoft](https://img.shields.io/badge/Microsoft-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white
-)
+![microsoft](https://img.shields.io/badge/Microsoft-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
