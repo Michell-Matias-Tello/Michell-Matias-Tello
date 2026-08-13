@@ -25,7 +25,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <br><br>
 
 ### 🔹 Deep Learning with TensorFlow
-<img width="802" height="543" alt="Captura de pantalla 2026-08-13 050326" src="https://github.com/user-attachments/assets/66e92277-4413-4e2a-a21c-85485d4c3e43" />
+<img width="430" height="290" alt="Captura de pantalla 2026-08-13 050326" src="https://github.com/user-attachments/assets/66e92277-4413-4e2a-a21c-85485d4c3e43" />
 <br>
 <sub>Issued: September 2025 · IBM / Cognitive Class</sub>
 <br><br>
