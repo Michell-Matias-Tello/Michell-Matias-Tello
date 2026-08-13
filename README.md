@@ -53,6 +53,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230074C8.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Html](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### **Data Engineering & Databases**
@@ -88,7 +89,8 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 ### **Productivity Suite**
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+![microsoft](https://img.shields.io/badge/Microsoft-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white
+)
 
 ---
 
