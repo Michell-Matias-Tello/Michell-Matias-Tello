@@ -1,5 +1,5 @@
 <h2 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=37&center=true&vCenter=true&height=60&width=490&lines=Hi+👋,+I'm+Michell;Data+%26+AI+Professional;Data+Science+|+Engineering;Welcome+to+my+profile!" alt="Title">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=39&center=true&vCenter=true&height=60&width=490&lines=Hi+👋,+I'm+Michell;Data+%26+AI+Professional;Data+Science+|+Engineering;Welcome+to+my+profile!" alt="Title">
 </h2>
 
 ---
@@ -14,6 +14,37 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 - 🌐 **Portfolio**: [Notion Portfolio](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
 
 ---
+## 🎓 **Executive Certifications**
+
+<div align="center">
+
+### 🔹 Microsoft Certified: Power BI Data Analyst Associate
+<img width="430" height="290" alt="Certificate-Microsoft" src="https://github.com/user-attachments/assets/8562b85c-3764-4298-ba78-21e9fbe387df" />
+<br>
+<sub>Issued: June 2025 · Expires: June 2027</sub>
+<br><br>
+
+### 🔹 Deep Learning with TensorFlow
+<img width="430" height="290" alt="Captura de pantalla 2026-08-13 050445" src="https://github.com/user-attachments/assets/3b36895c-d166-4a03-baed-24ec3bd074d9" />
+<br>
+<sub>Issued: September 2025 · IBM / Cognitive Class</sub>
+<br><br>
+
+### 🔹 AWS Educate Introduction to Cloud 101
+<img width="164" height="164" alt="blob" src="https://github.com/user-attachments/assets/055c5796-4ea8-4058-b1aa-6b82d1184fe8" />
+<br>
+<sub>Issued: June 2025 · Amazon Web Services</sub>
+<br><br>
+
+### 🔹 SQL Specialization
+<img width="430" height="290" alt="Captura de pantalla 2026-08-13 045830" src="https://github.com/user-attachments/assets/159c46a2-6e25-4e1c-a8d4-744296f8a9ad" />
+<br>
+<sub>Issued: March 2024 · 45 Hours · Business Intelligence Institute</sub>
+
+
+
+</div>
+
 
  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Technical Expertise
 
