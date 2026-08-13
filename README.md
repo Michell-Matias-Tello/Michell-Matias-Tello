@@ -32,7 +32,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <br><br>
 
 ### 🔹 AWS Educate Introduction to Cloud 101
-<img width="164" height="164" alt="blob" src="https://github.com/user-attachments/assets/055c5796-4ea8-4058-b1aa-6b82d1184fe8" />
+<img width="243" height="243" alt="blob" src="https://github.com/user-attachments/assets/055c5796-4ea8-4058-b1aa-6b82d1184fe8" />
 <br>
 <sub>Issued: June 2025 · Amazon Web Services</sub>
 <br><br>
