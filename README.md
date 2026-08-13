@@ -44,7 +44,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IA](https://img.shields.io/badge/GenAI-GenAI?style=flat-square&logo=GenAI&logoColor=FFFFFF&color=4285F4) 
+![IA](https://img.shields.io/badge/GenAI-GenAI?style=for-the-badge&logo=GenAI&logoColor=FFFFFF&color=4285F4) 
 
 
 ### 📝 Productivity & Collaboration
