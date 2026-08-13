@@ -97,7 +97,7 @@
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/> 
 </p>
 
 ------
@@ -105,7 +105,7 @@
 <div align="center">
   Thanks for watching my profile! Have a nice day! </h2>
   <div align="center">
-  <div align="center"> 
+  <div align="center">  
   <div align="center">
   </h2>
   &copy; 2026 Michell Matias Tello
