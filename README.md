@@ -4,7 +4,7 @@
  
 ## 🌱  **About me**
 
-- :credit_card: My full name is **Michell Matias Tello** 
+- :credit_card: My full name is 
 - :school: I am currently a tenth-cycle student at the **National University of Engineering**
 - :books: My specialty is **Statistical Engineering**
 - ⚡ Coursework: Statistical Inference, Data Science, Econometric Methods
