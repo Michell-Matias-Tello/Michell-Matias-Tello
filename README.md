@@ -13,7 +13,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 
 
-### 📜 Languages
+#### 📜 Languages
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +21,7 @@
 ![Html](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%20javascript?style=for-the-badge&logo=javascript&logoColor=2D2D2D&color=FFDB56)
 
-### 🗃️ Databases
+#### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -29,7 +29,7 @@
 
 
 
-### 📊 Data Science & Analytics
+#### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -40,7 +40,7 @@
 ![dahboard](https://img.shields.io/badge/qlik-%20qlik?style=for-the-badge&logo=qlik&logoColor=FFFFFF&color=558B2F)
 
 
-### 💻 Development Tools
+#### 💻 Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
