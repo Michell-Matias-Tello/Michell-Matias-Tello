@@ -25,10 +25,11 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <br><br>
 
 ### 🔹 Deep Learning with TensorFlow
-<img width="430" height="290" alt="Captura de pantalla 2026-08-13 050445" src="https://github.com/user-attachments/assets/3b36895c-d166-4a03-baed-24ec3bd074d9" />
+<img width="802" height="543" alt="Captura de pantalla 2026-08-13 050326" src="https://github.com/user-attachments/assets/66e92277-4413-4e2a-a21c-85485d4c3e43" />
 <br>
 <sub>Issued: September 2025 · IBM / Cognitive Class</sub>
 <br><br>
+
 
 ### 🔹 AWS Educate Introduction to Cloud 101
 <img width="164" height="164" alt="blob" src="https://github.com/user-attachments/assets/055c5796-4ea8-4058-b1aa-6b82d1184fe8" />
