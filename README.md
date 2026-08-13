@@ -126,7 +126,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
   [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
 </div>
 
----
+
 
 <!-- Footer -->
 <p align="center">
