@@ -20,7 +20,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Html](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html&logoColor=white) 
 ![javascript](https://img.shields.io/badge/javascript-%20javascript?style=for-the-badge&logo=javascript&logoColor=2D2D2D&color=FFDB56)
 
 #### 🗃️ Databases
