@@ -55,7 +55,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 ![microsoft](https://img.shields.io/badge/Microsoft-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white
 )
-![programa](https://img.shields.io/badge/Google%20Workspace-1?style=for-the-badge&logo=google&logoColor=white&color=4285F4
+![programa](https://img.shields.io/badge/Google%20Workspace-1?style=for-the-badge&logo=google&logoColor=white&color=4285F4 
 )
 
 
@@ -72,7 +72,7 @@
 
 ##  📊  **About Some Stats**
 
-<div align="center" style="filter: hue-rotate(30deg) saturate(2);"> 
+<div align="center" style="filter: hue-rotate(30deg) saturate(2);">  
   <img
     src="http://github-readme-streak-stats.herokuapp.com?user=Michell-Matias-Tello&theme=algolia&background=0d1117&hide_border=true"
     alt="GitHub Streak"
