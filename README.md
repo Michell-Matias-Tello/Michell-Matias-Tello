@@ -1,121 +1,109 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+👋,+I'm+Michell;Nice+to+meet+you!!!;Welcome+to+my+profile!" alt="Title"></img>  
-<br> 
-   
-## 🌱  **About me**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+👋,+I'm+Michell;Data+Science+%26+AI+Pro;Welcome+to+my+profile!" alt="Title">
+</h2>
 
-- :credit_card: My full name is **Michell Matias Tello** 
-- :school: I am currently a tenth-cycle student at the **National University of Engineering**
-- :books: My specialty is **Statistical Engineering**
-- ⚡ Coursework: Statistical Inference, Data Science, Econometric Methods
-- 📫 How to reach me: [Notion](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361?source=copy_link)
+---
 
+## 👨‍💻 **About Me**
 
+I am a **Data & AI professional** with a strong foundation in **Statistical Engineering** from the National University of Engineering (10th cycle). My expertise spans the full data lifecycle—from engineering and analytics to machine learning and artificial intelligence—enabling organizations to unlock actionable insights and drive data-informed decisions.
 
- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+- 🎯 **Currently**: Data Analyst | Data Scientist | Data Engineer | AI Practitioner
+- 🎓 **Education**: B.Sc. in Statistical Engineering (in progress) — National University of Engineering
+- 📚 **Core Competencies**: Statistical Inference, Econometric Methods, Machine Learning, Data Engineering, Generative AI
+- 🌐 **Portfolio**: [Notion Portfolio](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
 
+---
 
+ ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Technical Expertise
 
-
-#### 📜 Languages
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+### **Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Html](https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html&logoColor=white) 
-![javascript](https://img.shields.io/badge/javascript-%20javascript?style=for-the-badge&logo=javascript&logoColor=2D2D2D&color=FFDB56)
+![SQL](https://img.shields.io/badge/SQL-%230074C8.svg?style=for-the-badge&logo=sql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-#### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### **Data Engineering & Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-
- 
-#### 📊 Data Science & Analytics
+### **Data Science & Machine Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+
+### **BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black) 
-![dahboard](https://img.shields.io/badge/qlik-%20qlik?style=for-the-badge&logo=qlik&logoColor=FFFFFF&color=558B2F)
+![Qlik](https://img.shields.io/badge/Qlik-558B2F?style=for-the-badge&logo=qlik&logoColor=white)
 
+### **Generative AI**
+![GenAI](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 💻 Development Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### **Development & Collaboration**
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![IA](https://img.shields.io/badge/GenAI-GenAI?style=for-the-badge&logo=GenAI&logoColor=FFFFFF&color=4285F4) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### **Productivity Suite**
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
-#### 📝 Productivity & Collaboration
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
-![microsoft](https://img.shields.io/badge/Microsoft-00B7C3?style=for-the-badge&logo=microsoft&logoColor=white
-)
-![programa](https://img.shields.io/badge/Google%20Workspace-1?style=for-the-badge&logo=google&logoColor=white&color=4285F4 
-)
+---
 
-
-
-#### 🚀 Project Management & Agile
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white) 
-![Scrum](https://img.shields.io/badge/Scrum-%23FF3E00.svg?style=for-the-badge&logo=Scrum&logoColor=white) 
-![Project Management](https://img.shields.io/badge/Project%20Management-8ED5FA?style=for-the-badge&logo=project-management&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<br> 
-
-##  📊  **About Some Stats**
-
-<div align="center" style="filter: hue-rotate(30deg) saturate(2);">
-  <img 
-    src="https://streak-stats.demolab.com?user=Michell-Matias-Tello&theme=algolia&background=0d1117&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</div>
-
-
- 
-##  📫  **Contact Section**
-
-<div align="center"> <h3 style="display: inline;">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
-  Let’s Work Together! 
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h3>
-
-
-
-[![Hotmail](https://img.shields.io/badge/Hotmail-007EC6?style=for-the-badge&logoColor=white)](mailto:m.matias.tello@hotmail.com)
-[![whatsapp](https://img.shields.io/badge/whatsapp-michell?style=for-the-badge&logo=whatsapp&logoColor=000000)](https://wa.me/949789707?text=Hi%2C%20I%20reviewed%20your%20portfolio%20and%20would%20like%20to%20contact%20you%20about%20a%20professional%20opportunity.)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michell-matias/)
-[![whatsapp](https://img.shields.io/badge/Website-michell?style=for-the-badge&logo=Website&color=orange
-)](http://michellkm.thsite.top/)
-</div>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/> 
-</p>
-
-------
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  Thanks for watching my profile! Have a nice day! </h2>
-  <div align="center">
-  <div align="center">  
-  <div align="center">
-  </h2>
-  &copy; 2026 Michell Matias Tello
-</div> 
+  <img src="https://streak-stats.demolab.com?user=Michell-Matias-Tello&theme=algolia&background=0d1117&hide_border=true" alt="GitHub Streak" />
+</div>
 
- 
+---
 
+## 🚀 **Services Offered**
 
+| Service | Description |
+|---------|-------------|
+| **📈 Data Analytics** | Descriptive & diagnostic analytics, KPI dashboards, business reporting |
+| **🤖 Data Science** | Predictive modeling, statistical inference, machine learning solutions |
+| **⚙️ Data Engineering** | ETL pipelines, database design, data integration & warehousing |
+| **🧠 Artificial Intelligence** | Generative AI, LLM fine-tuning, NLP, computer vision |
+---
 
+## 📫 **Let's Connect**
+
+<div align="center">
+  <h3>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" />
+    Open to Collaborations & Opportunities
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" />
+  </h3>
+
+  [![Email](https://img.shields.io/badge/Email-007EC6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:m.matias.tello@hotmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michell-matias/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/949789707?text=Hi%2C%20I%20reviewed%20your%20profile%20and%20would%20like%20to%20connect.)
+  [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://michellkm.thsite.top/)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
+</div>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+---
+
+<div align="center">
+  <sub>© 2026 Michell Matias Tello — <i>Data-Driven Decision Maker</i></sub>
+</div>
