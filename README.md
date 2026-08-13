@@ -19,10 +19,11 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <div align="center">
 
 ### 🔹 Microsoft Certified: Power BI Data Analyst Associate
-<img width="430" height="290" alt="Certificate-Microsoft" src="https://github.com/user-attachments/assets/8562b85c-3764-4298-ba78-21e9fbe387df" />
+<img width="892" height="521" alt="Certificate-Microsoft" src="https://github.com/user-attachments/assets/068aebdd-ca08-4784-9334-c0cbfa2dd100" />
 <br>
 <sub>Issued: June 2025 · Expires: June 2027</sub>
 <br><br>
+
 
 ### 🔹 Deep Learning with TensorFlow
 <img width="430" height="290" alt="Captura de pantalla 2026-08-13 050326" src="https://github.com/user-attachments/assets/66e92277-4413-4e2a-a21c-85485d4c3e43" />
