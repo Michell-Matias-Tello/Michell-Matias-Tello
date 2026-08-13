@@ -74,10 +74,10 @@
 
 ##  📊  **About Some Stats**
 
-<div align="center" style="filter: hue-rotate(30deg) saturate(2);">  
+<div align="center" style="filter: hue-rotate(30deg) saturate(2);">
   <img
-    src="http://github-readme-streak-stats.herokuapp.com?user=Michell-Matias-Tello&theme=algolia&background=0d1117&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=Michell-Matias-Tello&theme=algolia&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
   />
 </div>
  
