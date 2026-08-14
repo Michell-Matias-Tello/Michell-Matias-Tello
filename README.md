@@ -1,4 +1,4 @@
-<img width="1248" height="438" alt="l9 6" src="https://github.com/user-attachments/assets/a4b42132-c82d-4adc-9ed3-abbfe5167712" />
+<img width="1248" height="435" alt="l9 6" src="https://github.com/user-attachments/assets/c034c510-a914-4da0-95c5-95cae798e85d" />
 
 <h2 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=39&center=true&vCenter=true&height=60&width=490&lines=Hi+👋,+I'm+Michell;Data+%26+AI+Professional;Data+Science+|+Engineering;Welcome+to+my+profile!" alt="Title">
