@@ -1,3 +1,6 @@
+
+<img width="1248" height="459" alt="l9 6" src="https://github.com/user-attachments/assets/54088648-dd73-4975-a05a-85580c04c7b6" />
+
 <h2 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=39&center=true&vCenter=true&height=60&width=490&lines=Hi+👋,+I'm+Michell;Data+%26+AI+Professional;Data+Science+|+Engineering;Welcome+to+my+profile!" alt="Title">
 </h2>
