@@ -3,7 +3,7 @@
 <h2 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2352869C&size=39&center=true&vCenter=true&height=60&width=490&lines=Hi+👋,+I'm+Michell;Data+%26+AI+Professional;Data+Science+|+Engineering;Welcome+to+my+profile!" alt="Title">
 </h2>
-
+ 
 ---
 
 ## 👨‍💻 **About Me**
