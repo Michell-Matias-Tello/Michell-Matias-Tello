@@ -54,7 +54,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <div align="center">
 
 ### 🔹 Microsoft Certified: Power BI Data Analyst Associate
-
+<img width="430" height="290" alt="Certificate-Microsoft" src="https://github.com/user-attachments/assets/8f4c9129-90f7-4422-9ecf-c56930c6f7fe" />
 <br>
 <sub>Issued: June 2025 · Expires: June 2027</sub>
 <br><br>
