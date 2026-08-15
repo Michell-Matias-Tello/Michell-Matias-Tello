@@ -38,7 +38,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 ---
 
 ## Delivery Approach
-
+ 
 | Phase | Activities | Key Deliverables |
 |-------|------------|------------------|
 | **Discovery** | Requirements analysis, data audit, feasibility assessment | Strategic roadmap, assessment report |
@@ -54,7 +54,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <div align="center">
 
 ### 🔹 Microsoft Certified: Power BI Data Analyst Associate
-<img width="430" height="290" alt="Certificate-Microsoft" src="https://github.com/user-attachments/assets/8f4c9129-90f7-4422-9ecf-c56930c6f7fe" />
+
 <br>
 <sub>Issued: June 2025 · Expires: June 2027</sub>
 <br><br>
@@ -65,7 +65,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 <br>
 <sub>Issued: September 2025 · IBM / Cognitive Class</sub>
 <br><br>
-
+ 
 ### 🔹 AWS Educate Introduction to Cloud 101
 <img width="243" height="243" alt="blob" src="https://github.com/user-attachments/assets/055c5796-4ea8-4058-b1aa-6b82d1184fe8" />
 <br>
