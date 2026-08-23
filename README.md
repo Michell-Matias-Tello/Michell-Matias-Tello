@@ -141,10 +141,9 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 
 <div align="center">
   <h3>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" />
     Open to Collaborations & Opportunities
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" />
-  </h3>
+    </h3>
+
 
   [![Email](https://img.shields.io/badge/Email-007EC6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:m.matias.tello@hotmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michell-matias/)
@@ -153,6 +152,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
   [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
 </div>
 
+<br>
 
 <br>
 
