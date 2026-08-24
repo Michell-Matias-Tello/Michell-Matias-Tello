@@ -153,7 +153,6 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 
 <br>
 
-<br>
 
 <!-- Footer -->
 <p align="center">
