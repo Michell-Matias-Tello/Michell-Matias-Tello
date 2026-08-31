@@ -12,7 +12,7 @@ I am a **Data & AI professional** with a strong foundation in **Statistical Engi
 
 - 🎯 **Currently**: Data Analyst | Data Scientist | Data Engineer | AI Practitioner
 - 🎓 **Education**: B.Sc. in Statistical Engineering (in progress) — National University of Engineering
-- 📚 **Core Competencies**: Statistical Inference, Econometric Methods, Machine Learning, Actuarial-Science, Generative AI
+- 📚 **Core Competencies**: Statistical Inference, Econometric Methods, Machine Learning, Actuarial Science, Generative AI
 - 🌐 **Portfolio**: [Notion Portfolio](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
 
 ---
