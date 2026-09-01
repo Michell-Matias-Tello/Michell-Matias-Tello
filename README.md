@@ -11,7 +11,7 @@
 I am a **Data & AI professional** with a strong foundation in **Statistical Engineering** from the National University of Engineering (10th cycle). My expertise spans the full data lifecycle—from engineering and analytics to machine learning and artificial intelligence—enabling organizations to unlock actionable insights and drive data-informed decisions.
 
 - 🎯 **Currently**: Data Analyst | Data Scientist | Data Engineer | AI Practitioner
-- 🎓 **Education**: B.Sc. in Statistical Engineering (in progress) — National University of Engineering
+- 🎓 **Education**: B.Eng. in Statistical Engineering (in progress) — National University of Engineering
 - 📚 **Core Competencies**: Statistical Inference, Econometric Methods, Machine Learning, Actuarial Science, Generative AI
 - 🌐 **Portfolio**: [Notion Portfolio](https://invented-alto-e4e.notion.site/Michell-Matias-s-Portfolio-1fe4e631f11580c79a6ef6edfa3dc361)
 
